@@ -1,0 +1,8 @@
+{
+  "emp_id": "EMP001",
+  "full_name": "John Doe",
+  "adult": true,
+  "domain": "it-services.com",
+  "tax_percent": 30,
+  "after_tax": -870000
+}
